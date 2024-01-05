@@ -7,4 +7,4 @@ Vamos criar um e-commerce para a empresa X
 
 ### Funcionalidades:
 
-Checkout, catálogo, tela de produto, etc.
+Checkout, catálogo, __tela de produto__, _etc_.
