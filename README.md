@@ -31,3 +31,9 @@ Checkout, catálogo, __tela de produto__, _etc_.
 ![Markdown](https://th.bing.com/th/id/R.13576f268705c0ec6068ef0ecdf6d28d?rik=6%2f8JvkJKVUJUEw&riu=http%3a%2f%2fweibeld.net%2fassets%2ficons%2fmarkdown.png&ehk=xKTpwb%2b1EGaawDHH9SE0uXeUYCFPBtixuu6w1OYpWIc%3d&risl=&pid=ImgRaw&r=0)
 
 [Sobre Markdown](https://www.markdownguide.org/)
+
+``` javascript
+function soma(a,b){
+  return a + b;
+}
+ ```
